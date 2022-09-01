@@ -96,3 +96,8 @@ The file hello will be in the working directory You are not allowed to use comma
     The file _hello is a symbolic link
 
 > command : `chown -h vincent:staff _hello`
+
+16. If only 
+
+> Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.<br>
+> command : `chown --from=guillaume betty hello`
