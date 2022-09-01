@@ -16,3 +16,8 @@
 
 > Write a script that prints all the groups the current user is part of.
 > command : `groups`
+
+3. New owner
+
+> Write a script that changes the owner of the file hello to the user betty.
+> command : `chown betty hello`
