@@ -95,4 +95,4 @@ The file hello will be in the working directory You are not allowed to use comma
     The file _hello is in the working directory
     The file _hello is a symbolic link
 
-> command : `chown -L vincent:staff _hello`
+> command : `chown -h vincent:staff _hello`
