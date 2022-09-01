@@ -101,3 +101,8 @@ The file hello will be in the working directory You are not allowed to use comma
 
 > Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.<br>
 > command : `chown --from=guillaume betty hello`
+
+17. Star Wars
+
+> Write a script that will play the StarWars IV episode in the terminal.<br>
+> command : `telnet towel.blinkenlights.nl`
