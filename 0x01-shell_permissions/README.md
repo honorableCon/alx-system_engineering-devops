@@ -73,3 +73,8 @@ The file hello will be in the working directory You are not allowed to use comma
 
 > Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 > command : `mkdir -m 751 my_dir`
+
+13. Change group
+
+> Write a script that changes the group owner to school for the file hello
+> command : `chgrp school hello`
